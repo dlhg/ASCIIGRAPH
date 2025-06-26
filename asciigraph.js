@@ -31,7 +31,7 @@ function chooseComponent(yPosition, currentArrayVal) {
   }
 }
 
-const input = [10, 5, 3, 1, 4];
+let input = [10, 5, 3, 1, 4];
 
 function makeGraph(input) {
   let result = "";
