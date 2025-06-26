@@ -11,6 +11,7 @@
 // |    ||    ||    | ____ |    | | 1
 // |    ||    ||    ||    ||    | | 0
 
+let input = [10, 5, 3, 1, 4];
 
 const components = {
   rowStart: "// ",
@@ -30,8 +31,6 @@ function chooseComponent(yPosition, currentArrayVal) {
     return components.graphTop;
   }
 }
-
-let input = [10, 5, 3, 1, 4];
 
 function makeGraph(input) {
   let result = "";
