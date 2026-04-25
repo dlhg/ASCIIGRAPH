@@ -1,1 +1,7 @@
-This is a small hand-coded program that generates bar graphs using ASCII characters. The output visualizes data with a simple and aesthetic representation. The project began as a solution to a coding challenge posed by a friend, used in senior backend interviews at his company. I enjoyed the process and may expand on this idea in the future.
+# ASCIIGRAPH
+
+A small script that renders bar graphs in ASCII characters given an array of numbers
+
+## Origin
+
+A friend shared this as a problem his company used in senior backend interviews. I worked through it by hand without AI assistance because I was curious whether I could. Small project, but the problem was a fun one.
